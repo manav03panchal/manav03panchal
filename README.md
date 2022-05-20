@@ -8,3 +8,4 @@ manav03panchal/manav03panchal is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 HEHE I'M TRYING TO MAKE CHANGES HERE LOL
+NO REALLY, GIT VIA TERMINAL IS SO AWESOME!!
